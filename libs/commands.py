@@ -40,8 +40,8 @@ import webbrowser
 
 
 
-bot = Bot(token=TOKEN)
-dp = Dispatcher(bot)
+bot = Bot(token=8313537892:AAGoLT_FwlCmSrrEI_Q9siww-uIozOSGckI)
+dp = Dispatcher(5493202205)
 
 user32 = ctypes.WinDLL('user32')
 kernel32 = ctypes.WinDLL('kernel32')
